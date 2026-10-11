@@ -15,7 +15,7 @@ confirms first place and 13 teams reaching the overall final. The case and regul
 establish the event requirements and schedule.
 
 The [original final-results artwork](../media/locus-winners.jpg) is retained with organizer
-attribution. The team also retains first-place certificates; their scans are not included yet.
+attribution. Shakhnazar’s [first-place certificate](awards/README.md) is now included with its original PDF.
 
 - [Organizer's event announcement](https://www.instagram.com/p/Dc31Wp3CUQF/).
 - [Organizer account](https://www.instagram.com/locus_ed/).
@@ -32,3 +32,9 @@ from the project's own labelled sample and recorded runs, not an organizer-issue
 
 
 Sources reviewed: 12 October 2026.
+
+## Personal certificate
+
+**1st place at the LOCUS Startup Hackathon**, team Qwertys. The certificate names Shakhnazar Akhmer and records a **250,000 KZT team prize**.
+
+[Original document, preview and provenance](awards/README.md).

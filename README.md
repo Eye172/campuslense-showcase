@@ -124,7 +124,7 @@ CampusLense was developed for **LOCUS Startup Hackathon 2026**, organized by **L
 Education**, and received **first place**. The organizer's
 [final results](https://www.instagram.com/locus_ed/p/Dd8uIpDtT4z/) name **QwertyS** as the
 winner; its [Case 01 finalist list](https://www.instagram.com/locus_ed/p/DdjcB1VtlE6/)
-identifies **CampusLense (QwertyS)**. The team also retains first-place certificates.
+identifies **CampusLense (QwertyS)**. Shakhnazar’s [first-place certificate](docs/awards/locus-first-place.pdf) is available below.
 
 <details><summary>Official LOCUS results</summary>
 
@@ -153,6 +153,21 @@ case and regulations, submission media and links to the organizer's announcement
 
 The images, demo and pitch in this repository document the hackathon product. A proposed
 user pilot is not presented as a completed deployment or a measured adoption result.
+
+## Award certificate
+
+**1st place at the LOCUS Startup Hackathon**, team Qwertys. The certificate names Shakhnazar Akhmer and records a **250,000 KZT team prize**.
+
+[Original documents and certificate gallery](docs/awards/README.md).
+
+<details>
+<summary>View the certificate</summary>
+
+**LOCUS Startup Hackathon — 1st place, Qwertys**
+
+<a href="docs/awards/locus-first-place.pdf"><img src="docs/awards/locus-first-place.png" alt="LOCUS Startup Hackathon — 1st place, Qwertys" width="760"></a>
+
+</details>
 
 ---
 
