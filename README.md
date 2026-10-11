@@ -9,6 +9,10 @@ An interactive globe, cinematic campus visits and university profiles that keep 
 
 [Explore the experience](#from-a-country-to-a-campus) · [Photo verification](#a-photo-is-only-useful-if-it-belongs-there) · [Engineering](#what-happens-behind-a-profile) · [Evaluation](#what-was-measured)
 
+[Open CampusLense](https://nnurkhan91--campuslense-web.modal.run/) ·
+[Watch the recorded application demo](media/campuslense-demo.mp4) ·
+[Read the submitted pitch](media/CampusLens.pdf)
+
 ## From a country to a campus
 
 Choosing a university involves more than comparing a ranking and tuition figure. Applicants want to understand where they would live: the buildings, dormitories, surrounding city and climate. Those details are scattered across official pages, image search and promotional brochures.
@@ -107,12 +111,58 @@ The map and 3D experience run in a **React 19 / TypeScript / Vite** frontend wit
 
 These are prototype measurements, not a guarantee across the full university index. The useful engineering result is the complete path from a university selection to a navigable, source-backed profile. The screenshots above come from the project’s recorded application walkthrough.
 
+
+## Next: a small applicant pilot
+
+The proposed pilot is a **seven-day trial** for applicants recruited through admissions communities, with an initial limit of **three newly generated university profiles per person per day**. Browsing an existing profile should not consume another generation. Before launch, the team needs account-level quotas, a total API-cost cap, basic usage measurement and a feedback channel.
+
+The pilot is planned, not launched or measured. Its results should report completed profiles, repeat usage, time to result and concrete feedback about university choice.
+
+## The LOCUS challenge behind the product
+
+CampusLense was developed for **LOCUS Startup Hackathon 2026**, organized by **LOCUS
+Education**, and received **first place**. The organizer's
+[final results](https://www.instagram.com/locus_ed/p/Dd8uIpDtT4z/) name **QwertyS** as the
+winner; its [Case 01 finalist list](https://www.instagram.com/locus_ed/p/DdjcB1VtlE6/)
+identifies **CampusLense (QwertyS)**. The team also retains first-place certificates.
+
+<details><summary>Official LOCUS results</summary>
+
+![Official LOCUS hackathon results naming QwertyS in first place.](media/locus-winners.jpg)
+
+*Original organizer artwork from the [1 October final-results publication](https://www.instagram.com/locus_ed/p/Dd8uIpDtT4z/).
+Credit: LOCUS / @locus_ed. Preserved without alteration.*
+
+</details>
+
+The event brought together **200 teams**, according to the team's participation record.
+An organizer-published overall participation count has not yet been located. The
+[25 September winners announcement](https://www.instagram.com/locus_ed/p/DdtuwJZFMaU/)
+confirms **13 teams in the final**. The 200-team figure refers to the overall event.
+
+The 72-hour build window ran **16 September, 12:00 to 19 September, 12:00**, with the
+final scheduled for **24 September 2026**, using Astana time. The chosen brief was
+**Case 01: Visual University Profile**. It asked teams to turn a university name into a
+source-backed visual profile, organize photographs by practical categories, remove
+duplicates and irrelevant images, and make uncertainty visible.
+
+That brief explains why photo provenance is central to the product. The globe and
+3D navigation make the experience engaging, while the retrieval and verification work
+answers the actual case. [The challenge record](docs/HACKATHON.md) includes the original
+case and regulations, submission media and links to the organizer's announcement.
+
+The images, demo and pitch in this repository document the hackathon product. A proposed
+user pilot is not presented as a completed deployment or a measured adoption result.
+
 ---
 
-### Built by
 
-**QwertyS** — [Shakhnazar Akhmer](https://github.com/Eye172) and [Nurkhan Aimukatov](https://github.com/pip00sya).
+### Built by QwertyS
 
-[More projects](https://github.com/Eye172) · [Contact](mailto:shakh090909@gmail.com)
+**[Shakhnazar Akhmer / Eye172](https://github.com/Eye172)** and **[Nurkhan Aimukatov / pip00sya](https://github.com/pip00sya)**.
 
-This repository presents the product and its engineering. The implementation is maintained separately. Screenshots and documented experiments are identified in their captions; a live deployment is not required to explore the case study.
+[Companion showcase on Nurkhan's account](https://github.com/pip00sya/campuslense-showcase) · [Shakhnazar's projects](https://github.com/Eye172) · [Nurkhan's projects](https://github.com/pip00sya).
+
+The two showcases document the same joint project. Product facts, authors and evidence are shared; each account maintains its own presentation repository.
+
+[Hackathon record and supporting sources](docs/HACKATHON.md) · [Media provenance](docs/MEDIA.md).
