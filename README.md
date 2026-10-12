@@ -10,8 +10,31 @@ An interactive globe, cinematic campus visits and university profiles that keep 
 [Explore the experience](#from-a-country-to-a-campus) · [Photo verification](#a-photo-is-only-useful-if-it-belongs-there) · [Engineering](#what-happens-behind-a-profile) · [Evaluation](#what-was-measured)
 
 [Open CampusLense](https://nnurkhan91--campuslense-web.modal.run/) ·
-[Watch the recorded application demo](media/campuslense-demo.mp4) ·
-[Read the submitted pitch](media/CampusLens.pdf)
+[Watch the three-minute walkthrough](media/CampusLense_QwertyS_demo.mp4) ·
+[Read the QwertyS presentation](media/CampusLense_QwertyS_presentation.pdf)
+
+## Explore the product in motion
+
+[![The retained QwertyS walkthrough: MIT and its surroundings in the 3D campus view.](media/demo-preview.jpg)](media/CampusLense_QwertyS_demo.mp4)
+
+**[▶ Open the three-minute walkthrough](media/CampusLense_QwertyS_demo.mp4)** ·
+[PDF presentation](media/CampusLense_QwertyS_presentation.pdf) ·
+[Editable presentation](media/CampusLense_QwertyS_presentation.pptx)
+
+The named QwertyS package covers university discovery, the 3D campus, categorized
+photos, verification, climate and comparison. It was retained with the October
+migration materials; its filename does not establish which exact media file was
+shown to the September jury. It documents the hackathon product, not a completed pilot.
+
+[![Cover of the named QwertyS presentation, with the project's identity and search index.](media/pitch-preview.jpg)](media/CampusLense_QwertyS_presentation.pdf)
+
+The earlier [2:14 application recording](media/campuslense-demo.mp4) and
+[early pitch draft](media/CampusLens.pdf) remain available for version comparison.
+The early draft still contains a team-name placeholder; it is not the primary pitch here.
+
+For the complete visual record, open the [28-image gallery](docs/GALLERY.md).
+The [technical walkthrough and case mapping](docs/TECHNICAL.md) explains the
+retrieval pipeline, provider boundaries, evidence and local inspection route.
 
 ## From a country to a campus
 
@@ -100,6 +123,10 @@ flowchart LR
 The retrieval pipeline gathers candidate sources in parallel, downloads the underlying images, removes duplicates and applies visual relevance checks. Source information survives the process so that the final interface can show where an image originated. Server-sent events expose progress while the profile is being assembled.
 
 The map and 3D experience run in a **React 19 / TypeScript / Vite** frontend with Tailwind, MapLibre and Google Maps 3D. The service layer uses **Python, FastAPI, SQLite and httpx**; CLIP supports image relevance. Separating the retrieval pipeline from the map keeps expensive discovery work out of the interaction loop.
+
+## Source availability
+
+The implementation is private. This public case study includes the product walkthrough, presentation, gallery and technical explanation for review without source access. Both QwertyS engineers are credited below; contact either for a code review or deployment discussion.
 
 ## What was measured
 

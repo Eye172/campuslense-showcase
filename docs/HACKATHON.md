@@ -15,7 +15,7 @@ confirms first place and 13 teams reaching the overall final. The case and regul
 establish the event requirements and schedule.
 
 The [original final-results artwork](../media/locus-winners.jpg) is retained with organizer
-attribution. Shakhnazar’s [first-place certificate](awards/README.md) is now included with its original PDF.
+attribution. The team also retains first-place certificates; their scans are not included yet.
 
 - [Organizer's event announcement](https://www.instagram.com/p/Dc31Wp3CUQF/).
 - [Organizer account](https://www.instagram.com/locus_ed/).
@@ -23,8 +23,9 @@ attribution. Shakhnazar’s [first-place certificate](awards/README.md) is now i
 - [Secondary event listing](https://hackathon.kz/event.html?slug=locus-startup-hackathon-2026).
 - [Original case PDF](../materials/LOCUS-Case-01.pdf).
 - [Original regulations, revision 2](../materials/LOCUS-Regulations-v2.pdf).
-- [Submitted pitch](../media/CampusLens.pdf) and [application recording](../media/campuslense-demo.mp4).
-- [Source and submission materials](https://github.com/Eye172/locus-hackathon-1).
+- [Early pitch draft](../media/CampusLens.pdf) and [earlier application recording](../media/campuslense-demo.mp4); the named QwertyS package is described below.
+- [Private source and migration materials](https://github.com/Eye172/locus-hackathon-1)
+  (collaborator access required; public pitch and video are retained in this showcase).
 
 The case called for a quickly assembled university profile with categorized, deduplicated
 photographs and inspectable sources. Internal product measurements in the README come
@@ -33,8 +34,16 @@ from the project's own labelled sample and recorded runs, not an organizer-issue
 
 Sources reviewed: 12 October 2026.
 
-## Personal certificate
 
-**1st place at the LOCUS Startup Hackathon**, team Qwertys. The certificate names Shakhnazar Akhmer and records a **250,000 KZT team prize**.
+## Retained presentation versions
 
-[Original document, preview and provenance](awards/README.md).
+The named QwertyS package now provides the primary
+[180-second walkthrough](../media/CampusLense_QwertyS_demo.mp4),
+[PDF presentation](../media/CampusLense_QwertyS_presentation.pdf) and
+[editable deck](../media/CampusLense_QwertyS_presentation.pptx).
+These were retained in the October migration record. No claim is made that
+these exact binaries were the September jury submission.
+
+The earlier [133.72-second recording](../media/campuslense-demo.mp4) and
+[pitch draft](../media/CampusLens.pdf) are preserved. The draft contains an
+unfilled team name, so it is no longer labelled as the primary submitted pitch.
