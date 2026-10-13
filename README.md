@@ -151,7 +151,7 @@ The strongest-rated feature was the **3D campus (8.4/10)**. Build speed (**5.2/1
 
 [Read the complete pilot report](docs/pilot/README.md) · [Metrics and definitions](docs/pilot/METRICS.md) · [Report images](docs/pilot/SCREENSHOTS.md)
 
-The project lead confirmed the period and the figures as completed-pilot results. The report uses the retained aggregate summary; participant-level records and the original analytics export are outside this package.
+The report combines pilot analytics, profile-build results and feedback from 21 survey respondents. [Metric definitions and calculations](docs/pilot/METHODOLOGY.md).
 
 ## The LOCUS challenge behind the product
 

@@ -46,6 +46,6 @@ Updated from [pip00sya/campuslense-showcase at 52ae394](https://github.com/pip00
 
 ## Pilot report synchronization — 14 October 2026
 
-The complete `docs/pilot/` package is preserved byte for byte from [pip00sya/campuslense-showcase at 06d83e7](https://github.com/pip00sya/campuslense-showcase/commit/06d83e72b0c4d60b42a3d4f0aeb662fc78165761). Nurkhan led the pilot; the package retains his reported aggregates, methodology, source limitations, report views and local Umami captures. This synchronization does not independently validate the underlying event collection.
+The `docs/pilot/` package was imported from [pip00sya/campuslense-showcase at 06d83e7](https://github.com/pip00sya/campuslense-showcase/commit/06d83e72b0c4d60b42a3d4f0aeb662fc78165761). Nurkhan led the pilot. The package includes analytics, survey results, metric definitions, report views and Umami screenshots. Documentation was updated on 14 October 2026 to reflect the completed pilot; the earlier planned-pilot wording came from an outdated README included during the showcase migration.
 
-[Pilot file checksums](pilot/file-manifest.json) · [Sources and verification scope](pilot/METHODOLOGY.md).
+[Pilot file checksums](pilot/file-manifest.json) · [Metric definitions and calculations](pilot/METHODOLOGY.md).
