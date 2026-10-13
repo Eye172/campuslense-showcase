@@ -51,7 +51,7 @@
     {
       "path": "checks.json",
       "bytes": 2665,
-      "sha256": "aa688b76dd64dda324e556f0f41d933f5e9b418ff6e85243117440f2229dd3d4"
+      "sha256": "00333af21a825f57bc1a9162993a25850ac6eef29ea51c46a5c3a9e79f1b2497"
     },
     {
       "path": "COSTS.md",
@@ -65,8 +65,8 @@
     },
     {
       "path": "data/country-distribution.csv",
-      "bytes": 402,
-      "sha256": "72aa407b84f51f88a0f07b65f97fbd19761c8647636bac7fe3cf215aece1b8af"
+      "bytes": 282,
+      "sha256": "03bb9e15ea0c234e91d28865dbf5f23d010c5b7bd3e7fb1fd6c3d9aab1081b8e"
     },
     {
       "path": "data/daily.csv",
@@ -85,8 +85,8 @@
     },
     {
       "path": "data/metrics.csv",
-      "bytes": 10625,
-      "sha256": "6cfac67e8e431c4f7e8fef7d75977949069ed24f7d19cf208d33b70aee24dc12"
+      "bytes": 9922,
+      "sha256": "8cae6fb139141080722db94ba4dca91e7180e9ca775e35d3f98761ab11d08a22"
     },
     {
       "path": "data/provenance.json",
@@ -105,18 +105,18 @@
     },
     {
       "path": "METHODOLOGY.md",
-      "bytes": 3285,
-      "sha256": "849012d46e2a3502ed2fd6ca12520679ce21481fbfef71f7fba10d12d83a3a32"
+      "bytes": 3443,
+      "sha256": "5f81e4eb0eeb3fe5ed8291795aabb83554a3421a2a787f6036ec308ea947150c"
     },
     {
       "path": "METRICS.md",
-      "bytes": 6792,
-      "sha256": "b0672af432120d4e490af930ee73b075be37370f0982485bd9a21412e4f0e2e0"
+      "bytes": 6833,
+      "sha256": "d9aa2885a0a2c657a2dff7d66495415823052db21f096ba7e2051af860cba0f8"
     },
     {
       "path": "README.md",
-      "bytes": 4251,
-      "sha256": "ffe42463a0cbd83c8641fafe79e0eb916e9805f9c3039fa499d136a7cc57940b"
+      "bytes": 4262,
+      "sha256": "f0a1bbd3f0fdaa03822ef1a5ef1fb0c886c2e12542cb59aa30838255723c9ff8"
     },
     {
       "path": "SCREENSHOTS.md",

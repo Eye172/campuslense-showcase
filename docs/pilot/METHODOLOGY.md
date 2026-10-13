@@ -25,7 +25,7 @@ The daily table contains new visitors, successful sign-ins and successful builds
 - Next-day return (D1): **25 / 104 = 24.0%**; any event on the next calendar day after activation.
 - Day-seven return (D7): **5 / 54 = 9.3%**; the cohort activated on days 1–3 has a complete seven-day observation window.
 
-Feature-use percentages retain their own reporting bases and are not converted into unique account counts. Country shares describe **requested universities**, rather than visitor geography. Feedback themes can overlap, so mentions are not summed as distinct people.
+The CSV denominator field contains a count or a named population where defined; an empty field means no denominator is specified for that metric. Feature-use percentages are not converted into unique account counts. Country shares describe **requested universities**, rather than visitor geography. Feedback themes can overlap, so mentions are not summed as distinct people.
 
 ## Survey and rounding
 
@@ -33,7 +33,7 @@ Survey results describe **21 respondents**. Feature-rating distributions group s
 
 NPS uses 7 promoters, 9 passives and 5 detractors:
 
-`(7 − 5) / 21 × 100 = +9.52`, or **+10** rounded to an integer.
+`(7 − 5) / 21 × 100 = +9.52`, or **+10** rounded to an integer. The CSV uses this calculated value consistently.
 
 Percentages normally use one decimal place in the report, two for NPS, and up to four in the CSV tables. Expenses retain the **$30–70** range used in the pilot budget review.
 

@@ -15,15 +15,15 @@ profiles_per_activated_median,Profiles per activated account: median,3,count,
 unique_universities,Unique universities,263,count,
 limit_users,Accounts reaching the quota,37,count,104
 active_three_days,Accounts active on three or more days,11,count,104
-view_3d,Opened the 3D campus,81,percent,not explicitly established in source
-photo_filter,Used photo filters,63,percent,not explicitly established in source
-brochure,Used brochure vs. reality,44,percent,not explicitly established in source
-climate,Opened climate and city,38,percent,not explicitly established in source
-saved,Used saved universities,21,percent,not explicitly established in source
-passport,Opened the photo passport,17,percent,not explicitly established in source
-compare,Compared universities,12,percent,not explicitly established in source
-share,Shared a link,9,percent,not explicitly established in source
-mobile,Mobile devices,81,percent,not explicitly established in source
+view_3d,Opened the 3D campus,81,percent,
+photo_filter,Used photo filters,63,percent,
+brochure,Used brochure vs. reality,44,percent,
+climate,Opened climate and city,38,percent,
+saved,Used saved universities,21,percent,
+passport,Opened the photo passport,17,percent,
+compare,Compared universities,12,percent,
+share,Shared a link,9,percent,
+mobile,Mobile devices,81,percent,
 retention_next_day,Accounts returning the next day,25,count,104
 retention_seventh_day,Accounts returning on day seven,5,count,54
 build_requests,New build requests,497,count,
@@ -38,7 +38,6 @@ inp_p75,INP: 75th percentile,280,milliseconds,
 cls,CLS,0.06,score,
 availability,Site availability,99.6,percent,
 sus,SUS,71,score,
-nps_reported,NPS: original source display,9,score,
 overall_rating,Overall product rating,7.3,score,
 nps_promoters,Promoters,7,count,21
 nps_passives,Passives,9,count,21
@@ -47,26 +46,26 @@ ellis_very_disappointed,Very disappointed if the product disappears,4,count,21
 limit_sufficient,Three new profiles are sufficient,9,count,21
 limit_five,Prefer five new profiles,8,count,21
 limit_unlimited,Prefer unlimited profiles,4,count,21
-rating_3d,3D campus: mean rating,8.4,score_out_of_10,raw responses unavailable
-rating_globe,Globe and search: mean rating,8.0,score_out_of_10,raw responses unavailable
-rating_brochure,Brochure vs. reality: mean rating,7.8,score_out_of_10,raw responses unavailable
-rating_photos,Photos by category: mean rating,7.4,score_out_of_10,raw responses unavailable
-rating_climate,Climate and city: mean rating,6.8,score_out_of_10,raw responses unavailable
-rating_passport,Photo passport: mean rating,6.3,score_out_of_10,raw responses unavailable
-rating_compare_saved,Comparison and saved universities: mean rating,6.0,score_out_of_10,raw responses unavailable
-rating_mobile,Mobile experience: mean rating,5.6,score_out_of_10,raw responses unavailable
-rating_build_speed,Build speed: mean rating,5.2,score_out_of_10,raw responses unavailable
+rating_3d,3D campus: mean rating,8.4,score_out_of_10,21
+rating_globe,Globe and search: mean rating,8.0,score_out_of_10,21
+rating_brochure,Brochure vs. reality: mean rating,7.8,score_out_of_10,21
+rating_photos,Photos by category: mean rating,7.4,score_out_of_10,21
+rating_climate,Climate and city: mean rating,6.8,score_out_of_10,21
+rating_passport,Photo passport: mean rating,6.3,score_out_of_10,21
+rating_compare_saved,Comparison and saved universities: mean rating,6.0,score_out_of_10,21
+rating_mobile,Mobile experience: mean rating,5.6,score_out_of_10,21
+rating_build_speed,Build speed: mean rating,5.2,score_out_of_10,21
 feedback_messages,Feedback messages,31,count,
 feedback_authors,Feedback authors,22,count,
 bug_messages,Bug reports,14,count,
 nps_recalculated,NPS recalculated from response groups,9.5238,score,21
 conversion_recalculated,Visitor-to-account conversion,26.9547,percent,486
-university_country_kz,University request share: Kazakhstan,34,percent,university_requests_total_not_preserved
-university_country_us,University request share: United States,21,percent,university_requests_total_not_preserved
-university_country_east_asia,"University request share: Korea, China and Hong Kong",14,percent,university_requests_total_not_preserved
-university_country_europe,University request share: Europe,12,percent,university_requests_total_not_preserved
-university_country_tr,University request share: Turkey,9,percent,university_requests_total_not_preserved
-university_country_other,University request share: Other,10,percent,university_requests_total_not_preserved
+university_country_kz,University request share: Kazakhstan,34,percent,university_requests
+university_country_us,University request share: United States,21,percent,university_requests
+university_country_east_asia,"University request share: Korea, China and Hong Kong",14,percent,university_requests
+university_country_europe,University request share: Europe,12,percent,university_requests
+university_country_tr,University request share: Turkey,9,percent,university_requests
+university_country_other,University request share: Other,10,percent,university_requests
 rating_3d_bin_9_10,3D campus: responses scored 9–10,11,count,21
 rating_3d_bin_7_8,3D campus: responses scored 7–8,8,count,21
 rating_3d_bin_5_6,3D campus: responses scored 5–6,2,count,21

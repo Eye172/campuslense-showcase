@@ -1,7 +1,7 @@
 group,label,percent,denominator
-kz,Kazakhstan,34,university_requests_total_not_preserved
-us,United States,21,university_requests_total_not_preserved
-east_asia,"Korea, China and Hong Kong",14,university_requests_total_not_preserved
-europe,Europe,12,university_requests_total_not_preserved
-tr,Turkey,9,university_requests_total_not_preserved
-other,Other,10,university_requests_total_not_preserved
+kz,Kazakhstan,34,university_requests
+us,United States,21,university_requests
+east_asia,"Korea, China and Hong Kong",14,university_requests
+europe,Europe,12,university_requests
+tr,Turkey,9,university_requests
+other,Other,10,university_requests

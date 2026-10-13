@@ -2,11 +2,11 @@
 
 **1–10 October 2026 · 10 days · Project lead: Nurkhan**
 
-CampusLense helps applicants explore universities through photographs, a 3D campus, city information, and university comparison. During the pilot, **486 people** visited the site, **131 accounts** signed in successfully, and **104 accounts** obtained at least one completed profile. The service completed **418 profile builds** across **263 unique universities**.
+CampusLense helps applicants explore universities through photographs, a 3D campus, city information, and university comparison. During the pilot, the site recorded **486 visitors**, **131 accounts** signed in successfully, and **104 accounts** obtained at least one completed profile. The service completed **418 profile builds** across **263 unique universities**.
 
 ![CampusLense pilot overview](assets/pilot-overview.png)
 
-[All metrics](METRICS.md) · [Report images](SCREENSHOTS.md) · [Methodology](METHODOLOGY.md) · [Expenses](COSTS.md) · [Open the report dashboard](dashboard.html)
+[All metrics](METRICS.md) · [Report images](SCREENSHOTS.md) · [Methodology](METHODOLOGY.md) · [Expenses](COSTS.md) · [Download the standalone dashboard](dashboard.html)
 
 ## Key results
 

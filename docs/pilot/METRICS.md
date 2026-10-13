@@ -28,10 +28,10 @@ Combined community membership may count the same person more than once; it is no
 | Median session duration | 220 s | Pilot analytics |
 | Profiles per activated account | Mean 4.0; median 3 | 418 / 104 ≈ 4.02 |
 | Unique universities | 263 | Pilot analytics |
-| Reached the quota at least once | 37 / 104 — 35.6% | Rounded to 36% in the source |
+| Reached the quota at least once | 37 / 104 — 35.6% | 37 activated accounts reached the quota |
 | Returned the next day after activation | 25 / 104 — 24.0% | Any event on the next calendar day |
 | Returned on day seven | 5 / 54 — 9.3% | Accounts activated on days 1–3 |
-| Active on three or more distinct days | 11 / 104 — 10.6% | Rounded to 11% in the source |
+| Active on three or more distinct days | 11 / 104 — 10.6% | 11 activated accounts used the product on at least three days |
 
 D7 uses the early cohort of 54 accounts activated on days 1–3, allowing a seven-day return to be observed within the pilot period. 
 
@@ -81,7 +81,7 @@ Feature percentages describe feature use; they are distinct from event counts an
 | CLS | 0.06 | ≤ 0.1 |
 | Availability over 10 days | 99.6% | ≥ 99% |
 
-LCP describes the appearance of the main content, INP describes interaction latency, and CLS describes layout shifts. These metrics do not measure 3D scene FPS. Availability of 99.6% over ten days corresponds to approximately 57.6 minutes of downtime; the source reports about one hour.
+LCP describes the appearance of the main content, INP describes interaction latency, and CLS describes layout shifts. These metrics do not measure 3D scene FPS. Availability of 99.6% over ten days corresponds to approximately 57.6 minutes of downtime. This is approximately one hour.
 
 The build-outcome categories total **418 + 47 + 32 = 497**. Build counts and unique university counts are separate metrics.
 
