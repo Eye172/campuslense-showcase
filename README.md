@@ -7,7 +7,7 @@ An interactive globe, cinematic campus visits and university profiles that keep 
 
 *Campus exploration in the working prototype: a 3D visit opens alongside the university context.*
 
-[Explore the experience](#from-a-country-to-a-campus) · [Photo verification](#a-photo-is-only-useful-if-it-belongs-there) · [Engineering](#what-happens-behind-a-profile) · [Evaluation](#what-was-measured)
+[Explore the experience](#from-a-country-to-a-campus) · [Photo verification](#a-photo-is-only-useful-if-it-belongs-there) · [Engineering](#what-happens-behind-a-profile) · [Evaluation](#what-was-measured) · [Applicant pilot](docs/pilot/README.md)
 
 [Open CampusLense](https://nnurkhan91--campuslense-web.modal.run/) ·
 [Watch the three-minute walkthrough](media/CampusLense_QwertyS_demo.mp4) ·
@@ -24,7 +24,7 @@ An interactive globe, cinematic campus visits and university profiles that keep 
 The named QwertyS package covers university discovery, the 3D campus, categorized
 photos, verification, climate and comparison. It was retained with the October
 migration materials; its filename does not establish which exact media file was
-shown to the September jury. It documents the hackathon product, not a completed pilot.
+shown to the September jury. These media document the hackathon product. The completed October pilot is reported separately below.
 
 [![Cover of the named QwertyS presentation, with the project's identity and search index.](media/pitch-preview.jpg)](media/CampusLense_QwertyS_presentation.pdf)
 
@@ -139,11 +139,19 @@ The implementation is private. This public case study includes the product walkt
 These are prototype measurements, not a guarantee across the full university index. The useful engineering result is the complete path from a university selection to a navigable, source-backed profile. The screenshots above come from the project’s recorded application walkthrough.
 
 
-## Next: a small applicant pilot
+## Applicant pilot: 1–10 October 2026
 
-The proposed pilot is a **seven-day trial** for applicants recruited through admissions communities, with an initial limit of **three newly generated university profiles per person per day**. Browsing an existing profile should not consume another generation. Before launch, the team needs account-level quotas, a total API-cost cap, basic usage measurement and a feedback channel.
+CampusLense completed a **ten-day applicant pilot from 1 to 10 October 2026**, led by Nurkhan. The pilot recorded **486 visitors**, **131 signed-in accounts**, **104 activated accounts**, and **418 successful profile builds** across **263 universities**.
 
-The pilot is planned, not launched or measured. Its results should report completed profiles, repeat usage, time to result and concrete feedback about university choice.
+Visitor-to-account conversion was **27.0%**; account activation was **79.4%**. Of 497 build requests, **84.1%** completed successfully. The 21 survey responses yielded **SUS 71**, **NPS +9.52** (+10 rounded), and an overall rating of **7.3/10**. Next-day return was **25/104 (24.0%)**; seventh-day return was **5/54 (9.3%)** for the early cohort.
+
+The strongest-rated feature was the **3D campus (8.4/10)**. Build speed (**5.2/10**) and the mobile experience (**5.6/10**) are the main priorities for improvement. Median build time was **34 seconds**; the 95th percentile was **96 seconds**.
+
+[![CampusLense pilot overview: visitors, accounts, activations and successful builds](docs/pilot/assets/pilot-overview.png)](docs/pilot/README.md)
+
+[Read the complete pilot report](docs/pilot/README.md) · [Metrics and definitions](docs/pilot/METRICS.md) · [Report images](docs/pilot/SCREENSHOTS.md)
+
+The project lead confirmed the period and the figures as completed-pilot results. The report uses the retained aggregate summary; participant-level records and the original analytics export are outside this package.
 
 ## The LOCUS challenge behind the product
 
@@ -178,8 +186,7 @@ That brief explains why photo provenance is central to the product. The globe an
 answers the actual case. [The challenge record](docs/HACKATHON.md) includes the original
 case and regulations, submission media and links to the organizer's announcement.
 
-The images, demo and pitch in this repository document the hackathon product. A proposed
-user pilot is not presented as a completed deployment or a measured adoption result.
+The images, demo and pitch document the hackathon product. Results of the completed 1–10 October 2026 applicant pilot are documented in the [pilot report](docs/pilot/README.md).
 
 ## Award certificate
 

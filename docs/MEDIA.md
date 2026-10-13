@@ -34,7 +34,7 @@ the organizer's result announcement, linked in [HACKATHON.md](HACKATHON.md).
 University photographs, maps and panoramas retain their respective rights and
 attributions. This portfolio does not relicense those assets. Internal accuracy
 and speed figures are described as team-reported development measurements.
-The planned user pilot is not shown as completed or measured adoption.
+Results of the completed 1–10 October 2026 pilot are documented in the [pilot report](pilot/README.md). Hackathon media and pilot report images are identified separately.
 
 [File hashes and sizes](media-manifest.json).
 
@@ -43,3 +43,9 @@ The planned user pilot is not shown as completed or measured adoption.
 Updated from [pip00sya/campuslense-showcase at 52ae394](https://github.com/pip00sya/campuslense-showcase/commit/52ae394fe7e9486c9f4186145ddb2b8896b77185) on 12 October 2026. QwertyS: **Shakhnazar Akhmer / Eye172** and **Nurkhan Aimukatov / pip00sya**. The source recording and presentation provenance above is retained; this transfer is not a new product or benchmark run.
 
 [Original certificates on this account](awards/README.md) remain available separately.
+
+## Pilot report synchronization — 14 October 2026
+
+The complete `docs/pilot/` package is preserved byte for byte from [pip00sya/campuslense-showcase at 06d83e7](https://github.com/pip00sya/campuslense-showcase/commit/06d83e72b0c4d60b42a3d4f0aeb662fc78165761). Nurkhan led the pilot; the package retains his reported aggregates, methodology, source limitations, report views and local Umami captures. This synchronization does not independently validate the underlying event collection.
+
+[Pilot file checksums](pilot/file-manifest.json) · [Sources and verification scope](pilot/METHODOLOGY.md).
